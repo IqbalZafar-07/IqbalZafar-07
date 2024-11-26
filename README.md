@@ -9,9 +9,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://in.linkedin.com/in/iqbal-zafar-7029b61b6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://in.linkedin.com/in/iqbal-zafar-7029b61b6" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/https://www.codechef.com/users/iqbal_123" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/iqbal_123" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/iziziz123/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/iziziz123/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/iqbal-zafar-7029b61b6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="iqbal-zafar-7029b61b6" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/iqbal_123" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="iqbal_123" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/iziziz123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="iziziz123" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
